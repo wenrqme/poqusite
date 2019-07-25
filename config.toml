@@ -51,6 +51,10 @@ googleAnalytics = ""
   url = "art/"
   home = true
 
+  # [[params.navlinks]]
+  # name = "Doodles & Doos"
+  # url = "doos/" #url to folder with content
+
   [[params.navlinks]]
   name = "About"
   url = "about/"
@@ -58,6 +62,10 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Contact"
   url = "contact/"
+
+  # [[params.navlinks]]
+  # name = "DA"
+  # url = "https://www.deviantart.com/poqu" #can also link to external sites
 
   [params.social]
   email         = "poqu.a.doodle@gmail.com"
