@@ -20,7 +20,7 @@ googleAnalytics = ""
   description = "poqu-a-doodle-doo"
   copyright = "&copy;2019 poqu"
   sidebarAbout = [
-    "I'm poqu, I make art, and I'm trying my best every day."
+    "I'm poqu, I make art, and I'm trying my best every day!"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
