@@ -2,7 +2,7 @@ pygmentsCodefences = true
 pygmentsStyle = "monokailight"
 
 
-baseurl = "https://poqu-a-doodle.netlify.com/"
+baseurl = "https://poqu-a-doodle.com/"
 title = "poqu-a-doodle"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
