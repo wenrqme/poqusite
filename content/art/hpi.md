@@ -2,11 +2,11 @@
 date = "2012-01-07T19:41:01+05:30"
 title = "human plant interaction"
 draft = false
-image = "img/portfolio/humanplantinteraction_.png"
+image = "img/portfolio/humanplantinteraction_.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/humanplantinteraction_.png)
+![adventure](/img/portfolio/humanplantinteraction_.jpg)
 
 hpi

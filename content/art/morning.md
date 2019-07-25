@@ -2,11 +2,11 @@
 date = "2019-02-07T19:41:01+05:30"
 title = "good morning"
 draft = false
-image = "img/portfolio/ride.png"
+image = "img/portfolio/ride.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/ride.png)
+![adventure](/img/portfolio/ride.jpg)
 
 It's less lonely with someone to greet.
