@@ -46,7 +46,7 @@ h1,
 .h1 {
   font-size: 32px;
   letter-spacing: 0.06em;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
   font-weight: 300;
 }
 h2,
