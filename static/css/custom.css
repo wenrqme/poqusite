@@ -19,9 +19,9 @@
   padding-right: 0px;
   padding-bottom: 20px;
 }
-@media (min-width: 1200px) {
+@media (min-width: 767px) { /*used to be 1200 min-width*/
   .content-column-content {
-    padding-left: 10px; /*20 is also good*/
+    padding-left: 10px; /*5 or 20 is also good*/
     padding-right: 10px;
   }
 }
