@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-![pic](/img/portfolio/pumpkinhome2.jpg)
+I'm not sure if there's a story to tell here.
 
-I'm not sure what that cat is thinking.
+![pic](/img/portfolio/pumpkinhome2.jpg)

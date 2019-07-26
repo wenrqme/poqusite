@@ -7,8 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
+Napping after finals :>
+
 ![pic](/img/portfolio/relax.jpg)
 
 ![pic_1](/img/portfolio/closeups/relax.jpg)
-
-Napping after finals :>

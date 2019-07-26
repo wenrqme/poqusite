@@ -7,10 +7,10 @@ showonlyimage = true
 weight = 1
 +++
 
+Jelly.
+
 ![jellies](/img/portfolio/poqu_a_doodle_v5.jpg)
 
 <!-- ![jellies](/img/portfolio/closeups/poqu_a_doodle_1.jpg)
 
 ![jellies](/img/portfolio/closeups/poqu_a_doodle_2.jpg) -->
-
-Jelly.

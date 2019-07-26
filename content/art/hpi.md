@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-![image](/img/portfolio/humanplantinteraction_.jpg)
-
 hpi
+
+![image](/img/portfolio/humanplantinteraction_.jpg)

@@ -7,8 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
+Same.
+
 ![trash](/img/portfolio/trashv3.jpg)
 
 ![trash](/img/portfolio/closeups/trashv3.jpg)
-
-Same.

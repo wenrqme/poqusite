@@ -7,8 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
+The moon was so red one evening on my drive to school. I drew this before I knew about Breath of the Wild.
+
 ![adventure](/img/portfolio/redmoon.jpg)
 
 ![adventure](/img/portfolio/closeups/redmoon.jpg)
-
-The moon was so red one evening on my drive to school. I drew this before I knew about breath of the wild.

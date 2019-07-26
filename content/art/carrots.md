@@ -7,8 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
+A small elephant, or a world of giant carrots.
+
 ![image](/img/portfolio/carrotgarden.jpg)
 
 ![img_1](/img/portfolio/carrotgarden_bw.jpg)
-
-A small elephant, or a world of giant carrots.

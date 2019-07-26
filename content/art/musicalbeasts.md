@@ -7,8 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
+Made with love for my sister <3
+
 ![image](/img/portfolio/musical_beast_var3.jpg)
 
 ![image_1](/img/portfolio/closeups/musical_beast_var3.jpg)
-
-Made with love for my sister <3
