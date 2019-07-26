@@ -7,6 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/relax.jpg)
+![pic](/img/portfolio/relax.jpg)
+
+![pic_1](/img/portfolio/closeups/relax.jpg)
 
 Napping after finals :>

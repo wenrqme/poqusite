@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/ride.jpg)
+![image](/img/portfolio/ride.jpg)
 
 It's less lonely with someone to greet.

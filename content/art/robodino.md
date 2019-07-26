@@ -7,6 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/robodino2.jpg)
+![rd](/img/portfolio/robodino2.jpg)
+
+![rd_1](/img/portfolio/robodinobw.jpg)
 
 Best friends. I drew the background from a photograph I took in Iceland.

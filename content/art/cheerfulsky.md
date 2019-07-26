@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/cheerfulskyda2.jpg)
+![image](/img/portfolio/cheerfulskyda2.jpg)
 
 A drawing of a simple life to relieve stress.

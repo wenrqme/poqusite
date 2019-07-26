@@ -7,6 +7,8 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/robobirb.jpg)
+![rb](/img/portfolio/robobirb2.jpg)
+
+![rb_1](/img/portfolio/closeups/robobirb2.jpg)
 
 A giant ostrich wreaking havoc.

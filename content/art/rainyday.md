@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-![adventure](/img/portfolio/rainy_day.jpg)
+![pic](/img/portfolio/rainy_day.jpg)
 
 I've always wanted a yellow raincoat
