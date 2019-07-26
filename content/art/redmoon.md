@@ -11,4 +11,4 @@ The moon was so red one evening on my drive to school. I drew this before I knew
 
 ![adventure](/img/portfolio/redmoon.jpg)
 
-![adventure](/img/portfolio/closeups/redmoon.jpg)
+<!-- ![adventure](/img/portfolio/closeups/redmoon.jpg) -->
