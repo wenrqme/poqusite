@@ -10,3 +10,5 @@ weight = 1
 Late to the party u_u
 
 ![circus](/img/portfolio/abandoned_circus_4.jpg)
+
+Here is a [time-lapse video](https://www.youtube.com/watch?v=qpliDBGhadw)!
