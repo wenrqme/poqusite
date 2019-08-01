@@ -9,19 +9,19 @@
     <i class="fa fa-google-plus"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.twitter }}
-  <a href="{{ . }}" class="twitter">
-    <i class="fa fa-twitter"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.instagram }}
   <a href="{{ . }}" title="" class="instagram">
     <i class="fa fa-instagram"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.email }}
-  <a href="mailto:{{ . }}" class="email">
-    <i class="fa fa-envelope"></i>
+  {{ with .Site.Params.social.twitter }}
+  <a href="{{ . }}" class="twitter">
+    <i class="fa fa-twitter"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.youtube }}
+  <a href="{{ . }}">
+    <i class="fa fa-youtube"></i>
   </a>
   {{end}}
   {{ with .Site.Params.social.linkedin }}
@@ -39,14 +39,14 @@
     <i class="fa fa-github"></i>
   </a>
   {{end}}
-  {{ with .Site.Params.social.youtube }}
-  <a href="{{ . }}">
-    <i class="fa fa-youtube"></i>
-  </a>
-  {{end}}
   {{ with .Site.Params.social.whatsapp }}
   <a href="{{ . }}" data-animate-hover="pulse" class="external">
     <i class="fa fa-whatsapp"></i>
+  </a>
+  {{end}}
+  {{ with .Site.Params.social.email }}
+  <a href="mailto:{{ . }}" class="email">
+    <i class="fa fa-envelope"></i>
   </a>
   {{end}}
 </p>
