@@ -1,6 +1,6 @@
 +++
 date = "2019-08-10T1:41:01+05:30"
-title = "night-time show"
+title = "octopocto"
 draft = false
 image = "img/portfolio/octotruck.jpg"
 showonlyimage = true
