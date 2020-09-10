@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-A drawing that represents myself.
+A drawing that represents me.
 
 ![trash](/img/portfolio/sketch3.jpg)
