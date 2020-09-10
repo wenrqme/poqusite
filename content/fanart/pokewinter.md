@@ -7,7 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-Dolly got replaced...
-A drawing of banette from pokemon~ banette's tend to hold grudges and live their life haunting the one who threw them away/
+Braving the winter cold with Rowlet and Articuno from Pokémon
 
 ![trash](/img/portfolio/pokewinter.jpg)
