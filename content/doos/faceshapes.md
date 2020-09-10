@@ -10,5 +10,7 @@ weight = 1
 A small collection of sketchbook pages. It's fun drawing face shapes~
 
 ![trash](/img/portfolio/image30.jpg)
+
 ![trash](/img/portfolio/image31.jpg)
+
 ![trash](/img/portfolio/image7.jpg)

@@ -2,7 +2,7 @@
 date = "2019-11-17T19:41:01+05:30"
 title = "upside down"
 draft = false
-image = "img/portfolio/upside_down_2.jpg"
+image = "img/portfolio/upside_down.jpg"
 showonlyimage = true
 weight = 1
 +++
