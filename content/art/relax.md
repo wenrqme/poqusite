@@ -2,7 +2,7 @@
 date = "2011-07-07T19:41:01+06:30"
 title = "relax"
 draft = false
-image = "img/portfolio/relax.jpg"
+image = "img/portfolio/closeups/relax2.jpg"
 showonlyimage = true
 weight = 1
 +++
