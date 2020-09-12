@@ -2,7 +2,7 @@
 date = "2020-08-12T19:41:01+05:30"
 title = "wind farm"
 draft = false
-image = "img/portfolio/windfarm.jpg"
+image = "img/portfolio/closeups/windfarm.jpg"
 showonlyimage = true
 weight = 1
 +++
