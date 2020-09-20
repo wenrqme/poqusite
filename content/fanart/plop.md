@@ -2,7 +2,7 @@
 date = "2019-01-18T19:41:01+05:30"
 title = "menacing a bokoblin"
 draft = false
-image = "img/portfolio/closeups/plop.jpg"
+image = "img/portfolio/closeups/plop0.jpg"
 showonlyimage = true
 weight = 1
 +++
