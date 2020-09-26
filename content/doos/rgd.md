@@ -9,7 +9,11 @@ weight = 1
 
 A collection of art I did for people on r/redditgetsdrawn.
 
+![trash](/img/portfolio/rgd7.jpg)
+
 ![trash](/img/portfolio/rgd5.jpg)
+
+![trash](/img/portfolio/rgd6.jpg)
 
 ![trash](/img/portfolio/rgd3.jpg)
 
