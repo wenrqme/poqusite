@@ -52,12 +52,12 @@ googleAnalytics = ""
   home = true
 
   [[params.navlinks]]
-  name = "Sketches"
-  url = "doos/" #url to folder with content
-
-  [[params.navlinks]]
   name = "Fanart"
   url = "fanart/" #url to folder with content
+
+  [[params.navlinks]]
+  name = "Sketches"
+  url = "doos/" #url to folder with content
 
   [[params.navlinks]]
   name = "About"
