@@ -1,5 +1,5 @@
 +++
-date = "2020-10-10T19:41:01+05:30"
+date = "2020-10-05T19:41:01+05:30"
 title = "modular chickens"
 draft = false
 image = "img/portfolio/modchicks.jpg"
