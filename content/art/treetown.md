@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-A little village for birds. Inspired by the Daisugi technique for growing strait cedar trees.
+A little village for birds. Inspired by the Daisugi technique for growing straight cedar trees.
 
 ![trash](/img/portfolio/treetown.jpg)\
