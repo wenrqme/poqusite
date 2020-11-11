@@ -9,4 +9,4 @@ weight = 1
 
 I've been working on my backgrounds more. This is my friend's animal crossing island :') she's @ dizzy_bone on twitter
 
-![trash](/img/extra/tansan.jpg)
+![trash](/img/portfolio/tansan.jpg)
