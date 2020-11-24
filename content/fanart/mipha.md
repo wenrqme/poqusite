@@ -9,4 +9,4 @@ weight = 1
 
 Mipha! Final champion I drew for Age of Calamity hype :')
 
-![trash](/img/portfolio/urbosa.jpg)
+![trash](/img/portfolio/mipha.jpg)
