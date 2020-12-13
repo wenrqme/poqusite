@@ -2,7 +2,7 @@
 date = "2020-10-03T19:41:01+05:30"
 title = "jelly jump"
 draft = false
-image = "img/portfolio/jellyjumping.jpg"
+image = "img/portfolio/jellyjumping_inv.jpg"
 showonlyimage = true
 weight = 1
 +++

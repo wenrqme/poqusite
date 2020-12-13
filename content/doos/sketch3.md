@@ -1,12 +1,16 @@
 +++
-date = "2020-03-26T19:41:01+05:30"
-title = "sketch3"
+date = "2020-12-02T19:41:01+05:30"
+title = "ant people"
 draft = false
-image = "img/portfolio/sketch3.jpg"
+image = "img/portfolio/antpoqu2.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-A drawing that represents me.
+Ant people design. They wear masks to live among magic ants. Their culture also adapted to revolve around ant-like groupish-ness and work life.
 
-![trash](/img/portfolio/sketch3.jpg)
+![trash](/img/portfolio/antpoqu.jpg)
+
+![trash](/img/portfolio/antpoqu1.jpg)
+
+![trash](/img/portfolio/antpoqu2.jpg)
