@@ -2,7 +2,7 @@
 date = "2020-11-15T19:41:01+05:30"
 title = "abandoned railroad"
 draft = false
-image = "img/portfolio/closeups/abandonedrailroad_crop.jpg"
+image = "img/portfolio/abandonedrailroad.jpg"
 showonlyimage = true
 weight = 1
 +++
