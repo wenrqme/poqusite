@@ -2,7 +2,7 @@
 date = "2019-08-10T1:41:01+05:30"
 title = "octopocto"
 draft = false
-image = "img/portfolio/octotruck.jpg"
+image = "img/portfolio/closeups/octotruck.jpg"
 showonlyimage = true
 weight = 1
 +++

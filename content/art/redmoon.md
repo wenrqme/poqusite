@@ -2,7 +2,7 @@
 date = "2019-03-08T19:41:01+05:30"
 title = "red moon"
 draft = false
-image = "img/portfolio/redmoon.jpg"
+image = "img/portfolio/closeups/redmoon1.jpg"
 showonlyimage = true
 weight = 1
 +++
