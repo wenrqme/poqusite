@@ -2,7 +2,7 @@
 date = "2019-02-07T19:41:01+05:30"
 title = "pumpkin home"
 draft = false
-image = "img/portfolio/pumpkinhome2.jpg"
+image = "img/portfolio/closeups/pumpkinhome2.jpg"
 showonlyimage = true
 weight = 1
 +++
