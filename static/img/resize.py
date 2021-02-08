@@ -31,7 +31,7 @@ for file in glob.glob(IN_FOLDER + '*'):
         height = int(float(img.size[1])*float(w_percent))
         new_img = img.resize((width, height), Image.ANTIALIAS)
         new_img = new_img.convert('RGB')
-        new_img.save(output_file, icc_profile=icc_profile)
+        new_img.save(output_file, icc_profile=icc_profile, quality=95)
     else:
         print('already here, not resizing!')
 
