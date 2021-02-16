@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-I hope I was able to hide the fact that I don't know what I'm doing with this piece.
+Just a small town along the cliffs.
 
 ![trash](/img/portfolio/clifftown_bright.jpg)\
