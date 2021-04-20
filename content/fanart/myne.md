@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-Rozemyne in the Royal Academy outfit! From Ascendance of a Bookworm.
+Rozemyne in her Royal Academy outfit! From Ascendance of a Bookworm (Part 4, Volume 1).
 
 ![trash](/img/portfolio/myne.jpg)
