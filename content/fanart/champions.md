@@ -1,6 +1,6 @@
 +++
 date = "2020-11-19T19:41:01+05:30"
-title = "champions"
+title = "champions (4 pics)"
 draft = false
 image = "img/portfolio/revali.jpg"
 showonlyimage = true

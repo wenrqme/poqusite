@@ -1,6 +1,6 @@
 +++
 date = "2020-09-18T19:41:01+05:30"
-title = "iki vs guardians"
+title = "iki vs guardians (4 pics)"
 draft = false
 image = "img/portfolio/ikivguardian0.jpg"
 showonlyimage = true
