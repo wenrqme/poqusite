@@ -1,12 +1,12 @@
 +++
-date = "2021-01-28T19:41:01+05:30"
+date = "2020-12-20T19:41:01+05:30"
 title = "mole town"
 draft = false
-image = "img/portfolio/moletown.jpg"
+image = "img/portfolio/moletown_v2.jpg"
 showonlyimage = true
 weight = 1
 +++
 
 An underground town where the mole-people live.
 
-![trash](/img/portfolio/moletown.jpg)\
+![trash](/img/portfolio/moletown_v2.jpg)\
