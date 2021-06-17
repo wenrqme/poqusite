@@ -54,7 +54,7 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Fanart"
   url = "fanart/" #url to folder with content
-  
+
   # [[params.navlinks]]
   # name = "Sketches"
   # url = "doos/" #url to folder with content
@@ -73,6 +73,6 @@ googleAnalytics = ""
 
   [params.social]
   email         = "poqu.a.doodle@gmail.com"
-  instagram     = "https://www.instagram.com/poqu_a_doodle/"
+  # instagram     = "https://www.instagram.com/poqu_a_doodle/"
   twitter       = "https://twitter.com/poqu_a_doodle"
-  youtube       = "https://www.youtube.com/channel/UC0XO7PxLW3r3mIe4noYUhCA"
+  # youtube       = "https://www.youtube.com/channel/UC0XO7PxLW3r3mIe4noYUhCA"
