@@ -7,6 +7,10 @@ showonlyimage = true
 weight = 1
 +++
 
-Ignatz from Fire Emblem: Three Houses! I love his crit quote and character in general.
+Fire Emblem: Three Houses characters! First is Ignatz: I love his crit quote and character in general.
 
 ![trash](/img/portfolio/ignatz.jpg)
+
+The second is Bernadetta (or Bernie bear), if Grappler was not a genderlocked class:
+
+![trash](/img/portfolio/berniebear.jpg)
