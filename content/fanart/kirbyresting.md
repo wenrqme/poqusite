@@ -9,4 +9,4 @@ weight = 1
 
 Kirby is resting. Based on the new game announced, Kirby and the Forgotten Land!
 
-![trash](/img/portfolio/ignatz.jpg)
+![trash](/img/portfolio/kirbyresting.jpg)
