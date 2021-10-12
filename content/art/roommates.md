@@ -2,11 +2,11 @@
 date = "2021-10-11T19:41:01+05:30"
 title = "roommates"
 draft = false
-image = "img/portfolio/roommates.jpg"
+image = "img/portfolio/roommates_1.jpg"
 showonlyimage = true
 weight = 1
 +++
 
 Living with a crocodile roommate.
 
-![trash](/img/portfolio/roommates.jpg)\
+![trash](/img/portfolio/roommates_1.jpg)\
