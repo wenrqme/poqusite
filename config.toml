@@ -47,12 +47,12 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Illustrations"
+  name = "Illustration"
   url = "art/"
   home = true
 
   [[params.navlinks]]
-  name = "Fanart"
+  name = "Fan Art"
   url = "fanart/" #url to folder with content
 
   # [[params.navlinks]]
