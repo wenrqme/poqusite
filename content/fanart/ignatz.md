@@ -11,6 +11,6 @@ Fire Emblem: Three Houses characters! First is Ignatz: I love his crit quote and
 
 ![trash](/img/portfolio/ignatz.jpg)
 
-The second is Bernadetta (or Bernie bear), if Grappler was not a genderlocked class:
+The second is Bernadetta, if Grappler was not a genderlocked class:
 
 ![trash](/img/portfolio/berniebear.jpg)
