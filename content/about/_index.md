@@ -9,6 +9,6 @@ A lot of my recent drawings have been of a concept of communities of people who 
 
 Most of my art is done in Procreate, but I do also use Clip Studio Paint.
 
-![This is me](/img/portfolio/poqu_a_doodle_v5.jpg)
+![This is me](/img/portfolio/modchicks.jpg)
 
 This page is currently under construction and I'll be updating with more info later!
