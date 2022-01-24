@@ -7,6 +7,10 @@ showonlyimage = true
 weight = 1
 +++
 
+![trash](/img/portfolio/totcats.jpg)\
+
 Trick-or-treat in the cat neighborhood!
 
-![trash](/img/portfolio/totcats.jpg)\
+I wanted to draw cat life with cardboard houses, in time for Halloween. Here's some sketches for the composition and cat poses, along with the sketch for my cat tower drawing:
+
+![trash](/img/extra/totcats_ex0.jpg)\
