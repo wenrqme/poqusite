@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-I spent a lot of time on this one, challenging myself to do more buildings and straight lines (kind of).
+I spent a lot of time on this one, challenging myself to do more buildings and straight lines (kind of). This is the beginning of my dive into serious background study.
 
 ![trash](/img/portfolio/mtntown_bright.jpg)\

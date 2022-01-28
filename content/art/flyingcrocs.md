@@ -1,5 +1,5 @@
 +++
-date = "2021-05-28T19:41:01+05:30"
+date = "2021-06-07T19:41:01+05:30"
 title = "visiting a friend"
 draft = false
 image = "img/portfolio/flyingcroc.jpg"
