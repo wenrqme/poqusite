@@ -2,12 +2,12 @@
 date = "2022-01-18T19:41:01+05:30"
 title = "sibling dino"
 draft = false
-image = "img/portfolio/siblingdino.jpg"
+image = "img/portfolio/siblingdino2.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-![trash](/img/portfolio/siblingdino.jpg)\
+![trash](/img/portfolio/siblingdino2.jpg)\
 
 Going on a dinosaur adventure! This was a birthday gift for my sister. (I drew us as how we looked when we were little!)
 
