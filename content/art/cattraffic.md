@@ -1,6 +1,6 @@
 +++
 date = "2022-02-04T19:41:01+05:30"
-title = "stuck in traffic"
+title = "pawful traffic"
 draft = false
 image = "img/portfolio/cattraffic.jpg"
 showonlyimage = true
