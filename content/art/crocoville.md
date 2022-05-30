@@ -2,12 +2,12 @@
 date = "2022-03-17T19:41:01+05:30"
 title = "crocoville"
 draft = false
-image = "img/portfolio/crocoville2.jpg"
+image = "img/portfolio/crocoville3.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-![trash](/img/portfolio/crocoville2.jpg)\
+![trash](/img/portfolio/crocoville3.jpg)\
 
 A crocodile themed city with crocodile themed transportation.
 
