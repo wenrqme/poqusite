@@ -60,6 +60,10 @@ googleAnalytics = ""
   # url = "doos/" #url to folder with content
 
   [[params.navlinks]]
+  name = "Prints"
+  url = "https://www.inprnt.com/gallery/poqu/" #can also link to external sites
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
@@ -68,11 +72,12 @@ googleAnalytics = ""
   url = "contact/"
 
   # [[params.navlinks]]
-  # name = "DA"
-  # url = "https://www.deviantart.com/poqu" #can also link to external sites
+  # name = "Prints"
+  # url = "https://www.inprnt.com/gallery/poqu/" #can also link to external sites
 
   [params.social]
   email         = "poqu.a.doodle@gmail.com"
-  # instagram     = "https://www.instagram.com/poqu_a_doodle/"
+  instagram     = "https://www.instagram.com/poqu_a_doodle/"
+  # tumblr        = "https://poqu.tumblr.com/"
   twitter       = "https://twitter.com/poqu_a_doodle"
   # youtube       = "https://www.youtube.com/channel/UC0XO7PxLW3r3mIe4noYUhCA"
