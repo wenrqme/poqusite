@@ -18,9 +18,9 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "sea"
   description = "poqu-a-doodle-doo"
-  copyright = "&copy;2019 poqu"
+  copyright = "" # "&copy;2019 poqu"
   sidebarAbout = [
-    "I'm poqu, I make art, and I'm trying my best every day!"
+    "illustration and background art ^_^"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a

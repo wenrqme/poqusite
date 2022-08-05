@@ -102,3 +102,9 @@ This port is released under the MIT License. Check the [original theme license](
 ## Thanks
 
 Thanks to [Steve Francia](https://github.com/spf13) for creating Hugo and the awesome community around the project. And also thanks to [Bootstrapious](http://bootstrapious.com/) for creating this awesome theme.
+
+
+## note
+
+favicon file name in layouts/partials/head.html
+copyright info in layouts/partials/sidebar.html
