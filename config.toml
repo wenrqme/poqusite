@@ -68,8 +68,8 @@ googleAnalytics = ""
   url = "about/"
 
   [[params.navlinks]]
-  name = "Contact"
-  url = "cl/"
+  name = "Contact/Links"
+  url = "contact/"
 
   # [[params.navlinks]]
   # name = "Prints"
