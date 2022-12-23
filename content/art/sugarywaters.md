@@ -2,7 +2,7 @@
 date = "2022-06-30T19:41:01+05:30"
 title = "sugary waters café"
 draft = false
-image = "img/portfolio/sugarywaters.jpg"
+image = "img/extra/sugarywaters_thumb.jpg"
 showonlyimage = true
 weight = 1
 +++
