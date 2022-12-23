@@ -7,12 +7,12 @@ showonlyimage = true
 weight = 1
 +++
 
-![trash](/img/portfolio/smallswims.jpg)\
+![trash](/img/portfolio/smallswims.jpg)
 
 Baby geese going for a swim. I tried my best, but they'll probably be mistaken for ducklings since I didn't add much brown to their coloring ToT.
 
 ![trash](/img/extra/smallswims_ex0.jpg)\
-![trash](/img/extra/smallswims_ex1.jpg)\
+![trash](/img/extra/smallswims_ex1.jpg)
 
 The initial linework felt a bit unbalanced while I was flipping the canvas, so I ended up adding some flower petals to the right edge of the water. At first I thought it might've been too small a detail, but I think this helps a lot because of how the pink color pops against the other colors in the area.
 

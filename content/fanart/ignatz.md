@@ -7,10 +7,10 @@ showonlyimage = true
 weight = 1
 +++
 
-Fire Emblem: Three Houses characters! First is Ignatz: I love his crit quote and character in general.
-
 ![trash](/img/portfolio/ignatz.jpg)
 
-The second is Bernadetta, if Grappler was not a genderlocked class:
+Fire Emblem: Three Houses characters! First is Ignatz: I love his crit quote and character in general.
 
 ![trash](/img/portfolio/berniebear.jpg)
+
+The second is Bernadetta, if Grappler was not a genderlocked class u_u

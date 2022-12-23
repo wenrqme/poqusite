@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-I had a dream where everyone turned their head and became Tabby from Animal Crossing.
-
 ![trash](/img/portfolio/tabbydream.jpg)
+
+I had a dream where everyone turned their head and became Tabby from Animal Crossing.

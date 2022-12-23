@@ -11,7 +11,6 @@ weight = 1
 
 This is a commissioned drawing of a battle between Rayquaza and Duraludon!
 
-The thumbnails for this:
-Initially I had all the smoke outlined like I drew them in the thumbnails, but I ended up scrapping it for a more painted look so that it feels softer with some translucency.
-
 ![trash](/img/extra/rqz_ex0.jpg)
+
+Initially I had all the smoke outlined like I drew them in the thumbnails, but I ended up scrapping it for a more painted look so that it feels softer with some translucency.

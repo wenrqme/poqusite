@@ -7,10 +7,10 @@ showonlyimage = true
 weight = 1
 +++
 
-![trash](/img/portfolio/penguinsocks_post.jpg)\
+![trash](/img/portfolio/penguinsocks_post.jpg)
 
 This is inspired by a pair of socks my friend owns.
 
-My thumbnails: I was mostly choosing between the side view or the front view, and then I while figuring out a background, I ended up designing the whole interior area. It was fun and felt like placing furniture down in Animal Crossing.
+![trash](/img/extra/penguinsocks_ex0.jpg)
 
-![trash](/img/extra/penguinsocks_ex0.jpg)\
+My thumbnails! I was mostly choosing between the side view or the front view, and then I while figuring out a background, I ended up designing the whole interior area. It was fun and felt like placing furniture down in Animal Crossing.

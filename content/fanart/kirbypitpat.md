@@ -7,6 +7,6 @@ showonlyimage = true
 weight = 1
 +++
 
-Art based on the trailer of Kirby and the Forgotten Land. I love the post apocalyptic scenery. Pit pat pit pat feet noises : )
-
 ![trash](/img/portfolio/kirbypitpat_2.jpg)
+
+Art based on the trailer of Kirby and the Forgotten Land. I love the post apocalyptic scenery. Pit pat pit pat feet noises : )

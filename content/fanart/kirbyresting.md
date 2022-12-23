@@ -11,9 +11,9 @@ weight = 1
 
 Kirby is resting. Based on the new game announced, Kirby and the Forgotten Land! I love the post-apocalyptic-overgrown-rusty aesthetic.
 
-Here are small sketches of ideas for other illustrations I could make vaguely based on the trailer for the game:
-
 ![trash](/img/extra/kirbyresting_ex0.jpg)
+
+Small sketches of ideas for other illustrations I could make vaguely based on the trailer for the game.
 
 A few months after I finished I decided to change it again to see if sunbeams would improve the lighting! I prefer this version alone, but it looks more out of place when placed with the rest of my art.
 

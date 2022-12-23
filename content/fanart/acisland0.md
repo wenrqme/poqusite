@@ -13,6 +13,6 @@ This is a drawing based on my friend Peter's Animal Crossing island! Screenshot 
 
 ![trash](/img/extra/ptr0.jpg)
 
-I was planning to draw some of my other friends' islands too when I get the time! I drew all these thumbnails at around the same time based on areas that inspired me:
-
 ![trash](/img/extra/acisland0_ex0.jpg)
+
+I was planning to draw some of my other friends' islands too when I get the time! I drew all these thumbnails at around the same time based on areas that inspired me:

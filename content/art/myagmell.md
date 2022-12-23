@@ -7,8 +7,9 @@ showonlyimage = true
 weight = 1
 +++
 
-![trash](/img/portfolio/myagmell_day.jpg)\
-![trash](/img/portfolio/myagmell_night.jpg)\
+![trash](/img/portfolio/myagmell_day.jpg)
+
+![trash](/img/portfolio/myagmell_night.jpg)
 
 
 This is a commission I did for Mistreil's characters in their procelain world, [Myag Mell](https://www.mistreil.com/characters/myag_mell.html).
