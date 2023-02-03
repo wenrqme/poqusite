@@ -23,4 +23,8 @@ In the end I altered the composition a little bit to have some foreground elemen
 
 ![croc and cat](/img/extra/croccatliving_ex2.jpg)
 
-For my efforts on making more obvious lighting, I did initial color thumbnails over the art. I stuck with the second version of these, trying to keep the shadows very similar in color, so that the details are not jumping out as much in those areas. This way, the eyes attention is hopefully drawn more towards the center, whereas in the first version, it would be drawn to the top right of the image.
+For my efforts on making more obvious lighting, I did initial color thumbnails over the art. I stuck with the second version of these, trying to keep the shadows very similar in color, so that the details are not jumping out as much in those areas. This way, the eyes attention is hopefully drawn more towards the center, whereas in the first version, it would be drawn to the top right of the image
+
+![croc and cat](/img/extra/croccatliving_ex3.jpg)
+
+This is a wip of the coloring before I warmed it up a bit. I still like how this wip looks.
