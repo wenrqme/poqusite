@@ -2,12 +2,12 @@
 date = "2023-02-18T19:41:01+05:30"
 title = "living together"
 draft = false
-image = "img/portfolio/croccatliving.jpg"
+image = "img/portfolio/croccatliving_wcroc.jpg"
 showonlyimage = true
 weight = 1
 +++
 
-![croc and cat](/img/portfolio/croccatliving.jpg)
+![croc and cat](/img/portfolio/croccatliving_wcroc.jpg)
 
 Crocs and cats living together. I wanted to focus a lot more on improving my lighting skills for this drawing. I tried to make the shadows and lights more clear than my previous art.
 
