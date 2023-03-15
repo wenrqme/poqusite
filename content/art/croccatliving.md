@@ -1,6 +1,6 @@
 +++
 date = "2023-02-19T19:41:01+05:30"
-title = "living together"
+title = "slow life"
 draft = false
 image = "img/portfolio/croccatliving.jpg"
 showonlyimage = true
