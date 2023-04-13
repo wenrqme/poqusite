@@ -1,5 +1,5 @@
 +++
-date = "2022-07-24T13:41:01+05:30"
+date = "2022-07-26T13:41:01+05:30"
 title = "new mauville"
 draft = false
 image = "img/portfolio/POQU_NEWMAUVILLE_RGB.jpg"
