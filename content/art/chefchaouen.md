@@ -1,5 +1,5 @@
 +++
-date = "2022-10-20T19:41:01+05:30"
+date = "2022z-10-20T19:41:01+05:30"
 title = "chefchaouen"
 draft = false
 image = "img/portfolio/chefchaouen.jpg"
