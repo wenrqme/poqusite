@@ -1,5 +1,5 @@
 +++
-date = "2024-01-01T13:41:01+05:30"
+date = "2023-01-01T13:41:01+05:30"
 title = "snow day"
 draft = false
 image = "img/portfolio_glaze/torpip_glaze.jpg"
