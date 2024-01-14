@@ -9,4 +9,4 @@ weight = 1
 
 ![trash](/img/portfolio/bokura.jpg)
 
-Fanart for the game Bokura! I really like this game!!
+Fanart for the game Bokura! I really like this game!! I tried to make the bench and streetlamp more toy-ish in scale to suit the chibi-like proportions of the kids.
