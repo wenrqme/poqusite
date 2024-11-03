@@ -1,6 +1,6 @@
 +++
 date = "2024-10-24T19:41:01+05:30"
-title = "floating pandas"
+title = "kitty arch"
 draft = false
 image = "img/portfolio/kittyarch_arch.jpg"
 showonlyimage = true
