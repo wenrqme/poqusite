@@ -12,3 +12,5 @@ weight = 1
 The Slateport City market from Pokemon Ruby/Sapphire/Emerald/Omega Ruby/Alpha Sapphire! One of my most nostalgic pokemon spots :')
 
 I drew this for @HoennZine (on twitter, tumblr, and instagram)!
+
+![slateport](/img/extra/slateport_ex0.jpg)

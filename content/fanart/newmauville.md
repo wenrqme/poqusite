@@ -12,3 +12,5 @@ weight = 1
 New Mauville, an abandoned power plant inhabited by electric type pokemon. Visually, this is based more on Pokemon Omega Ruby/Alpha Sapphire rather than the original games, but I took a lot of liberties with it ToT
 
 I drew this for @HoennZine (on twitter, tumblr, and instagram)!
+
+![slateport](/img/extra/newmauville_ex0.jpg)
