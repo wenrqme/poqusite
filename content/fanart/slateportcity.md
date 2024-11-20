@@ -1,5 +1,5 @@
 +++
-date = "2022-07-24T13:41:01+05:30"
+date = "2023-07-24T13:41:01+05:30"
 title = "slateport city market"
 draft = false
 image = "img/portfolio/POQU_SLATEPORTCITY_RGB.jpg"
