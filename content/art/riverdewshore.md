@@ -1,5 +1,5 @@
 +++
-date = "2024-10-25T19:41:01+05:30"
+date = "2024-11-19T19:41:01+05:30"
 title = "resting at shore"
 draft = false
 image = "img/portfolio/riverdew_shore.jpg"

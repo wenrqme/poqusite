@@ -1,5 +1,5 @@
 +++
-date = "2024-10-24T19:41:01+05:30"
+date = "2024-11-24T19:41:01+05:30"
 title = "kitty arch"
 draft = false
 image = "img/portfolio/kittyarch_arch.jpg"
