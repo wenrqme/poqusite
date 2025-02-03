@@ -8,3 +8,5 @@ weight = 1
 +++
 
 ![wha](/img/portfolio/kirlia_reflection.jpg)
+
+![wha](/img/extra/kirlia_ex0.jpg)

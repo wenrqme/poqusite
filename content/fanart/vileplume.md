@@ -8,3 +8,5 @@ weight = 1
 +++
 
 ![wha](/img/portfolio/vileplume.jpg)
+
+![wha](/img/extra/vileplume_ex0.jpg)

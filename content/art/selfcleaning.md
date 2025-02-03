@@ -8,3 +8,9 @@ weight = 1
 +++
 
 ![bunbun](/img/portfolio/selfcleaning_2.jpg)
+
+![bunbun](/img/extra/selfcleaning_ex0.jpg)
+
+![bunbun](/img/extra/selfcleaning_ex1.jpg)
+
+![bunbun](/img/extra/selfcleaning_ex2.jpg)

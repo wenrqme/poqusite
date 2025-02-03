@@ -9,4 +9,8 @@ weight = 1
 
 ![wha](/img/portfolio/pkmnbakery.jpg)
 
-I'm going for s traditional look with the textures! Using a pencil brush is fun for me and I hope to do more of this.
+I'm going for s traditional look with the textures and general muted lighting! Using a pencil brush is fun for me and I hope to do more of this.
+
+![wha](/img/extra/pkmnbakery_ex0.jpg)
+
+![wha](/img/extra/pkmnbakery_ex1.jpg)
